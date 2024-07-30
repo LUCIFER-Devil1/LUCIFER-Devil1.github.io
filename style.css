@@ -1,0 +1,14 @@
+h1{
+    color: azure;
+} 
+body {
+    background-image: url(background.png);
+    
+    .pic.jpg{
+        display: block;
+        margin-left: 500px;
+        margin-right: 500px;
+    }
+    
+
+}
